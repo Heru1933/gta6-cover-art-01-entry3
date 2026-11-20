@@ -1,0 +1,4 @@
+out/
+node_modules/
+bundle.tar.gz
+.DS_Store
